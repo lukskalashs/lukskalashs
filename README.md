@@ -14,7 +14,7 @@ I'm currently completing my BSc Honours in Computer Science & Informatics at the
 ```csharp
 public class Lukhanyo : Developer
 {
-    public string[] Stack => new[] { "C#", "ASP.NET Core", "Angular", "TypeScript", "Python" };
+    public string[] Stack => new string[] { "C#", "ASP.NET Core", "Angular", "TypeScript", "Python" };
     public string Philosophy => "Ship clean architecture, then automate the boring parts.";
     public bool OpenToCollab => true;
 }
