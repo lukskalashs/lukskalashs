@@ -64,7 +64,8 @@ public class Lukhanyo : Developer
 <br>
 
 ###  What I'm Building
-* ** AI-MDA Pipeline** — Turns natural-language SRS documents into validated UML class diagrams (F1-score: 0.90), with a human-in-the-loop Angular review layer.
+
+* **AI-MDA Pipeline** — Turns natural-language SRS documents into validated UML class diagrams (F1-score: 0.90), with a human-in-the-loop Angular review layer.
 * **🔗 Real-time full-stack apps** — SignalR-powered live messaging, JWT auth, Dockerised SQL Server, deployed via CI/CD to Azure & Render.
 
 <br>
