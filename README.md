@@ -72,8 +72,8 @@ public class Lukhanyo : Developer
 
 ### 📌 Currently
 * **🧠 Learning:** AI: Natural Language processing in Software Engineering
-* ** Open to collaborating on:** C#/.NET, Angular, or NLP/RAG integrations.
-* ** Ask me about:** Software architecture, requirements engineering, or why UML still matters.
+* **Open to collaborating on:** C#/.NET, Angular, or NLP/RAG integrations.
+* **Ask me about:** Software architecture, requirements engineering, or why UML still matters.
 * **🌍 Based in:** Bloemfontein/Johannesburg originally from Cape Town, South Africa 
 
 <br>
