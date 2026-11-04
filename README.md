@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=200&section=header&text=Lukhanyo%20Kalashe&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20and%20NLP%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F3864&center=true&vCenter=true&width=650&lines=Building+full-stack+apps+with+C%23+%2B+Angular;Teaching+machines+to+read+requirements+(NLP);Turning+plain+English+into+UML+diagrams;Currently%3A+BSc+Hons+Computer+Science" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F3864&center=true&vCenter=true&width=650&lines=Building+full-stack+apps+with+C%23+%2B+Angular;Teaching+machines+to+read+requirements+(NLP);Turning+plain+English+into+UML+diagrams;Currently%3A+BSc+Hons+Computer+Science+and+Informatics" alt="Typing SVG" />
 </div>
 
 <br>
