@@ -12,7 +12,7 @@ I'm a software engineer who lives at the intersection of full-stack web developm
 I'm currently completing my BSc Honours in Computer Science & Informatics at the University of the Free State on a JSE bursary, researching a requirements-to-UML extraction pipeline that combines NLP with deterministic rule-based engines.
 
 ```csharp
-public class Lukhanyo : Developer
+public class Lukhanyo : Developer, Analyst
 {
     public string[] Stack => new string[] { "C#", "ASP.NET Core", "Angular", "TypeScript", "Python", "SQL" };
     public string Philosophy => "Ship clean architecture, then automate the boring parts.";
