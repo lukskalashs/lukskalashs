@@ -7,9 +7,9 @@
 <br>
 
 ### 👋 About Me
-I'm a software engineer who lives at the intersection of full-stack web development and applied AI. By day I'm building REST APIs in ASP.NET Core and wiring them up to Angular front-ends; by night I'm feeding software requirements into NLP pipelines to see if I can get a machine to draw a UML diagram better than I can by hand (so far, it's a fair fight).
+I'm a software engineer who lives at the intersection of full-stack web development and applied AI. By day I'm building REST APIs in ASP.NET Core and wiring them up to Angular front-ends; by night I'm feeding software requirements into NLP pipelines to see if I can get a machine to draw a Architectural diagrams better than unrestricted AI. Done with that trying to make it better and deterministic
 
-I'm currently completing my BSc Honours in Computer Science & Informatics at the University of the Free State on a JSE bursary, researching a requirements-to-UML extraction pipeline that combines NLP with deterministic rule-based engines.
+Recently completed my BSc Honours in Computer Science & Informatics at the University of the Free State on a JSE bursary, researching a requirements-to-architecture extraction pipeline that combines NLP with deterministic rule-based engines.
 
 ```csharp
 public class Lukhanyo : Developer, Analyst
